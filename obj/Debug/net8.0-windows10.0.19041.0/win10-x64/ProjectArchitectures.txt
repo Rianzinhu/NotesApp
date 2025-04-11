@@ -1,0 +1,1 @@
+D:\PAMSalgadoSouza\Projetos\NotesApp\NotesApp.csproj;x64
